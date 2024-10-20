@@ -10,17 +10,17 @@
 
     <TextView
         android:id="@+id/textViewResult"
-        android:layout_width="match_parent"
-        android:layout_height="100dp"
+        android:layout_width="418dp"
+        android:layout_height="184dp"
         android:gravity="end"
+        android:padding="16dp"
         android:text="@string/result"
-        android:textSize="40sp"
         android:textColor="@color/white"
+        android:textSize="40sp"
+        app:layout_constraintBottom_toTopOf="@id/gridLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintBottom_toTopOf="@id/gridLayout"
-        android:padding="16dp" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <GridLayout
         android:id="@+id/gridLayout"

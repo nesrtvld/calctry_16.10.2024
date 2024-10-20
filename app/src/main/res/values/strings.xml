@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">calctry_18.10.2024</string>
+    <string name="dig_1">1</string>
+    <string name="dig_3">2</string>
+    <string name="dig_2">2</string>
+    <string name="result" />
+    <string name="dig_3_butt">3</string>
+    <string name="dig_4">4</string>
+    <string name="dig_5">5</string>
+    <string name="dig_6">6</string>
+    <string name="dig_7">7</string>
+    <string name="dig_9">9</string>
+    <string name="dig_8">8</string>
+    <string name="dig_0">0</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="equal">"="</string>
+    <string name="C">C</string>
+    <string name="button">Button</string>
+    <string name="neg_button">+/-</string>
+    <string name="procentage_button">%</string>
+    <string name="equal_button">=</string>
+    <string name="dot_button">.</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="multiplication_button">*</string>
+    <string name="division_button">/</string>
+    <string name="delete_button"><![CDATA[<-]]></string>
+    <string name="square_root">√</string>
+</resources>
